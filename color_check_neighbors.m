@@ -67,5 +67,10 @@ for m = 2:99 %for rows 1 through 100
 end
 
 color_show_stuff(new_gen);
+
+new_gen(randi([2,99],1,1),randi([2,99],1,1)) = 1;
+new_gen(randi([2,99],1,1),randi([2,99],1,1)) = 1;
+new_gen(randi([2,99],1,1),randi([2,99],1,1)) = 1;
+
 axis off
 end
