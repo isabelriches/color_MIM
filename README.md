@@ -1,5 +1,5 @@
-Color_Game_of_Life
-
+**Color_Game_of_Life
+**
 Group Members:
 
 Miriam Arden
