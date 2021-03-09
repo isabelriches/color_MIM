@@ -1,8 +1,8 @@
 function [new_gen] = color_check_neighbors(current_gen)
 
-yellow      = [1, 1, 0];
-lightblue   = [0, 0.45, 0.75];
-purple      = [0.5, 0.2, 0.5];
+%yellow      = [1, 1, 0];
+%lightblue   = [0, 0.45, 0.75];
+%purple      = [0.5, 0.2, 0.5];
 
 
 new_gen = zeros(100);
