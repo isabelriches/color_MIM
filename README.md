@@ -1,12 +1,11 @@
-**Color_Game_of_Life
-**
-Group Members:
+*Color_Game_of_Life
+Group Members:*
 
 Miriam Arden
 Isabel Riches
 Matthew Murphy
 
-colors change as the game progresses and the cells interact, changing from purple to light blue to yellow. 
+description: colors change as the game progresses and the cells interact, changing from purple to light blue to yellow. 
 
 game rules:
 
